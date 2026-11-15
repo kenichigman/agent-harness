@@ -1,0 +1,1 @@
+{"findings":[{"severity":"minor","summary":"README quickstart omits the Python version requirement"},{"severity":"minor","summary":"one example uses a relative path without saying from where"}]}
